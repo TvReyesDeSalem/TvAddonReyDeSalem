@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR yellow][COLOR blue]• [/COLOR]Manas Español</title>
+<title>[COLOR yellow]Manas [/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink><externallink>
+<externallink>https://raw.githubusercontent.com/TvReyesDeSalem/TvAddonReyDeSalem/master/ManasEnEspa%C3%B1ol.xml<externallink>
 </item>
 
 <item>
-<title>[COLOR yellow][COLOR blue]• [/COLOR]Manas Ingles</title>
+<title>[COLOR yellow]Manas Ingles[/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink><externallink>
+<externallink>https://raw.githubusercontent.com/TvReyesDeSalem/TvAddonReyDeSalem/master/ManasEnIngles.xml<externallink>
 </item>
 
 <item>
-<title>[COLOR yellow][COLOR blue]• [/COLOR]Manas Portugués</title>
+<title>[COLOR yellow]Manas Portugués[/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink><externallink>
+<externallink>https://raw.githubusercontent.com/TvReyesDeSalem/TvAddonReyDeSalem/master/ManasEnPortugu%C3%A9s.xml<externallink>
 </item>

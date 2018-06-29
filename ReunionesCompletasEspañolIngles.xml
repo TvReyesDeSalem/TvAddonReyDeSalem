@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR yellow][COLOR blue]• [/COLOR] Reuniones Completas Español Ingles </title>
+<title>[COLOR yellow]Reuniones Completas Español[/COLOR]</title>
 <thumbnail></thumbnail>
+<fanart>https://blog.edx.org/wp-content/uploads/2018/03/espan%CC%83ol.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/TvReyesDeSalem/TvAddonReyDeSalem/master/ReunionesCompletasEnEspa%C3%B1ol.xml<externallink>
+</item>
+
+<item>
+<title>[COLOR yellow]Reuniones Completas Ingles[/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart>https://t2.uc.ltmcdn.com/images/7/6/9/img_lista_de_conectores_en_ingles_42967_600.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/TvReyesDeSalem/TvAddonReyDeSalem/master/ReunionesCompletasEnIngles.xml<externallink>
+</item>
+
+<item>
+<title>[COLOR yellow]Reuniones Completas Portugués[/COLOR]</title>
+<thumbnail>https://static.memrise.com/img/400sqf/from/uploads/course_photos/6043361000140707053640.jpg</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink>externallink>
+<externallink>https://raw.githubusercontent.com/TvReyesDeSalem/TvAddonReyDeSalem/master/ReunionesCompletasEnPortugu%C3%A9s.xml<externallink>
 </item>
