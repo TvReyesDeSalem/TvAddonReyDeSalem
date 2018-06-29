@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR yellow][COLOR blue]• [/COLOR] Manas Español Ingles </title>
+<title>[COLOR yellow][COLOR blue]• [/COLOR]Manas Español</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink>externallink>
+<externallink><externallink>
+</item>
+
+<item>
+<title>[COLOR yellow][COLOR blue]• [/COLOR]Manas Ingles</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink><externallink>
+</item>
+
+<item>
+<title>[COLOR yellow][COLOR blue]• [/COLOR]Manas Portugués</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink><externallink>
 </item>
