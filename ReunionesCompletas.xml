@@ -1,9 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR yellow]Reuniones Completas[/COLOR]</title>
-<thumbnail>https://2.bp.blogspot.com/-uN_GpFGTTg4/Wzakk8hbXBI/AAAAAAAAAQg/uR_b2VxIdOAW9ZJ0Cm6tG1qqRhCS_UKzACLcBGAs/s1600/3%2BLenguajes%2Bpng.png</thumbnail>
+<title>[COLOR yellow]Reuniones Completas En Español[/COLOR]</title>
+<thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/TvReyesDeSalem/TvAddonReyDeSalem/master/ReunionesCompletasEspa%C3%B1olIngles.xml</externallink>
+<externallink>https://raw.githubusercontent.com/TvReyesDeSalem/TvAddonReyDeSalem/master/ReunionesCompletasEnEspa%C3%B1ol.xml</externallink>
 </item>
+
+<item>
+<title>[COLOR yellow]Reuniones Completas En Ingles[/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/TvReyesDeSalem/TvAddonReyDeSalem/master/ReunionesCompletasEnIngles.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR yellow]Reuniones Completas En Portugués[/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/TvReyesDeSalem/TvAddonReyDeSalem/master/ReunionesCompletasEnPortugu%C3%A9s.xml</externallink>
+</item>
+
