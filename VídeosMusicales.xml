@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR yellow]El Regalo Mas Hermoso por Helen Escudero y David Valdez (VIDEO MUSICAL)[/COLOR]</title>
+<title>[COLOR yellow]El Regalo Mas Hermoso por Helen Escudero y David Valdez[/COLOR]</title>
 <urlsolve>https://vimeo.com/221276989</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]Tu Gran Amor por AlvaroMarta y PauloDaniela[/COLOR]</title>
+<urlsolve>https://vimeo.com/221276768</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
