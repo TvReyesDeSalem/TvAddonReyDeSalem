@@ -1,8 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR yellow][COLOR blue]• [/COLOR] Raza Superior(Kids)</title>
-<urlsolve>https://vimeo.com/album/3346598</urlsolve>
+<title>[COLOR yellow]Clases De La Raza Superior [/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/TvReyesDeSalem/TvAddonReyDeSalem/master/Clases%20De%20La%20Raza%20Superior.xml<externallink>
+</item>
+
+<item>
+<title>[COLOR rec]Titeres[/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/TvReyesDeSalem/TvAddonReyDeSalem/master/Titeres.xml<externallink>
+</item>
+
+<item>
+<title>[COLOR yellow]Testimonios[/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/TvReyesDeSalem/TvAddonReyDeSalem/master/TestimoniosRS.xml<externallink>
 </item>
